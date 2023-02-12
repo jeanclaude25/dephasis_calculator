@@ -16,3 +16,5 @@ pip install pywin32
 pip install pywin32-ctypes
 
 pip install win32gui
+
+py main.py
